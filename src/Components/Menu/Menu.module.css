@@ -1,0 +1,33 @@
+/* Menu.module.css */
+.menuContainer {
+    margin: 20px;
+    margin-left: 100px;
+  }
+  
+  .menuItem {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .menuItem img {
+    max-width: 300px;
+    border-radius: 5px;
+    height: 200px;
+  }
+  
+  .menuItem h5 {
+    margin-top: 10px;
+  }
+  
+  .menuItem p {
+    color: #555;
+  }
+  
+  .menuItem .price {
+    font-weight: bold;
+    color: #333;
+  }
+  

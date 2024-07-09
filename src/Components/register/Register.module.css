@@ -1,0 +1,66 @@
+.heading {
+    font-size: 74px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    color: #E23744;
+   
+    margin-top: 190px;
+  }
+  
+  .para{
+    margin-top: 180x;
+    font-weight: 800;
+    font-size: 24px;
+  }
+
+  label {
+    font-size: 25px;
+    margin-top: 10px;
+    color: black;
+    font-weight: 800;
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  input[type="phone"],
+  input[type="password"] {
+    padding: 10px;
+    border-radius: 30px;
+    width: 100%;
+  }
+  
+  .head1 {
+    margin-top: 100px;
+    font-size: 70px;
+    color: #E23744;
+  }
+  
+  .head2 {
+    margin-top: 10px;
+    margin-left: 80px;
+    color: #E23744;
+    font-size: 40px;
+  }
+  
+  .btn {
+    margin-top: 10px;
+    width: 100%;
+    margin-bottom: 10px;
+    border-radius: 30px;
+  }
+  
+  .login-page .navbar {
+    display: none;
+  }
+  
+  .logins {
+    margin-top: 300px;
+  }
+  
+  .title{
+    font-size: 50px;
+    
+    color: #E23744;
+    font-weight: 800;
+
+  }

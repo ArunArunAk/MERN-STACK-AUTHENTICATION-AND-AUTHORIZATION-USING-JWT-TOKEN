@@ -1,0 +1,43 @@
+.hero {
+    background-image: url('https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L2lzMTYwNjItaW1hZ2Uta3d2eWZrd3IuanBn.jpg');
+    background-size: cover;
+    color: white;
+    padding: 100px 0;
+  }
+  .headertitle{
+    font-weight: 800;
+    color:white;
+    font-size: 30px;
+
+}
+.navbackground{
+    background-color: #df6f4d;
+
+}
+  .hungry{
+    font-weight: 800;
+    /* color: rgb(255, 87, 34); */
+    font-size: 60px;
+    color:white;
+    
+  }
+  .hero .btn-primary {
+    background-color: #ff5722;
+    border-color: #ff5722;
+  }
+  
+  .card-img-top {
+    height: 200px;
+    object-fit: cover;
+  }
+   
+  .footer {
+    background-color: #f8f9fa;
+    padding: 20px 0;
+  }
+  
+  .testimonials {
+    background-color: #f1f1f1;
+    padding: 50px 0;
+  }
+  

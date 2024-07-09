@@ -1,0 +1,16 @@
+.footer {
+    background-color: #343a40; /* Dark background color */
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  .footer a {
+    color: #f8f9fa;
+    margin: 0 10px;
+  }
+  
+  .footer a:hover {
+    color: #ddd;
+  }
+  

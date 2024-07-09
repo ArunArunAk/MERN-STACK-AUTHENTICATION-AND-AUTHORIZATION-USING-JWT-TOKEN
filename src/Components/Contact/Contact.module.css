@@ -1,0 +1,26 @@
+.contactContainer {
+    padding: 20px;
+  }
+  
+  .header {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .formGroup {
+    margin-bottom: 15px;
+  }
+  
+  .submitButton {
+    background-color: #4CAF50; /* Green */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .submitButton:hover {
+    background-color: #45a049;
+  }
+  
